@@ -2,7 +2,7 @@
 #
 # Plays the game of tic-tac-toe against a human opponent
 #
-# Author = Ken W. Alger
+# Author = Smitha LR
 # Date = 6 October 2013
 # Python version 3.3.2
 #
