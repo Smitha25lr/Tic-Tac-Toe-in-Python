@@ -3,7 +3,7 @@
 # Plays the game of tic-tac-toe against a human opponent
 #
 # Author = Smitha LR
-# Date = 6 October 2013
+# Date = 6 October 2016
 # Python version 3.3.2
 #
 
